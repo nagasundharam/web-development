@@ -1,0 +1,83 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Poppins','sans-serif';
+
+}
+body {
+    background:#001e4d;
+}
+.card {
+    background: #fff;
+    width : 90%;
+    max-width:600px;
+    margin : 100px auto 0 ;
+    border-radius:10px;
+    padding:20px;
+
+}
+.card h1 {
+    font-size:28px;
+    margin:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:600;
+
+
+}
+
+.card p {
+    font-size:22px;
+    margin:10px;
+    padding:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+
+   
+}
+
+ .btn {
+    width:90%;
+    display:block;
+    margin:15px;
+    height: 45px;
+    text-align:left;
+    padding-left:15px;
+    border-radius: 8px;
+    font-size:20px;
+    cursor: pointer;
+    transition:all 0.3s;
+
+}
+.btn:hover:enabled {
+    background:#222;
+    color:#fff;
+}
+.btn:disabled{
+    cursor: no-drop ;
+
+}
+.submit  {
+    text-align: center;
+
+}
+.submit button {
+    background: #001e4d;
+    color:aliceblue;
+    width:80px;
+    height:30px;
+    border-radius:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor:pointer;
+}
+.correct {
+    background: green;
+    
+
+}
+.incorrect {
+    background :red;
+    
+
+}
+
