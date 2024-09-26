@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "welcome to the new blog",
+      "body": "He who would live must fight. He who doesn't wish to fight in this world, where permanent struggle is the law of life, has not the right to exist.",
+      "likes": 30
+    },
+    {
+      "id": "2",
+      "title": "how to be live in bit",
+      "body": "He who would live must fight. He who doesn't wish to fight in this world, where permanent struggle is the law of life, has not the right to exist.",
+      "likes": 15
+    },
+    {
+      "id": "3",
+      "title": "is it worth to join bit",
+      "body": "He who would live must fight. He who doesn't wish to fight in this world, where permanent struggle is the law of life, has not the right to exist.",
+      "likes": 20
+    },
+    {
+      "id": "0eaf",
+      "title": "daksha",
+      "body": "i am going to say something in your  mind that is your the greatest dont go back  to this girl",
+      "likes": 0
+    }
+  ],
+  "polls": [
+    {
+      "id": "1",
+      "question": "Do you prefer react or vue?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
